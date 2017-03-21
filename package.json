@@ -3,7 +3,7 @@
     "displayName": "chair-debug",
     "description": "chair 调试工具",
     "version": "0.1.0",
-    "publisher": "chair-debug",
+    "publisher": "zengyue",
     "engines": {
         "vscode": "^1.10.0"
     },
